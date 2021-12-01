@@ -13,7 +13,8 @@ font-weight: bold;
 font: size 3rem;
 margin: 5px}
 nav li {display:inline}
-.box {text-align: left;
+.box { display-flex: cloumn;
+    text-align: left;
     background-color: #336699;
   border: 1px solid ;
 border-radius: 20px;
