@@ -1,0 +1,22 @@
+body {background-color:#6699CC;
+color: aliceblue;
+}
+nav {background-color:#336699;
+color: aliceblue;}
+nav a {text-decoration: none;
+padding-left: 10px;
+padding-right: 10px;}
+nav ul {
+text-align: center;
+list-style: none;
+font-weight: bold;
+font: size 3rem;
+margin: 5px}
+nav li {display:inline}
+.box {text-align: left;
+    background-color: #336699;
+  border: 1px solid ;
+border-radius: 20px;
+padding: 30px;
+margin-bottom:50px;
+}
